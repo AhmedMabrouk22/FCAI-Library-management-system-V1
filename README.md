@@ -2,7 +2,7 @@
 
 FCAI Library management system it's a user interface application developed using c#, windows forms, and SQL server, this system depends on 2 types of users admin and visitors such as students and faculty staff  it has the main functions to manage the library such as  admin has ability to add books make borrow, return the book from visitors and  visitors can list all books in the library, read all details about books and , make borrow operation 
 
-## Gallery
+## Screenshots
 
 ![1](https://user-images.githubusercontent.com/105928025/212269724-df9fc0a5-8468-4d58-b529-bee158a71435.PNG)
 
